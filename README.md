@@ -77,3 +77,6 @@ Execute the program
 ```
 # OUPUT
 ![timetable](timetable.png)
+#RESULT
+Program executed successfully.
+
